@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ingeroem.github.io/sitemap.ingeroem.gz
+Sitemap: https://ingeroem.github.io/app/sitemap.ingeroem.gz
+Sitemap: https://ingeroem.github.io/assets/sitemap.ingeroem.gz
+Sitemap: https://ingeroem.github.io/css/sitemap.ingeroem.gz
+Sitemap: https://ingeroem.github.io/data/sitemap.ingeroem.gz
+Sitemap: https://ingeroem.github.io/includes/sitemap.ingeroem.gz
+Sitemap: https://ingeroem.github.io/item/sitemap.ingeroem.gz
+Sitemap: https://ingeroem.github.io/src/sitemap.ingeroem.gz
